@@ -24,7 +24,7 @@ github_username:  taodo2291
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
