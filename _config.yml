@@ -24,7 +24,7 @@ github_username:  taodo2291
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
