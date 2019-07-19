@@ -17,8 +17,8 @@ title: Táo notes
 email: td-notes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Trang ghi chú cá nhân của táo, nơi chia sẻ về những điều đời thường trong cuộc sống.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/td-notes" # the subpath of your site, e.g. /blog
+url: "https://ntuanviet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taodo2291
 github_username:  taodo2291
 
